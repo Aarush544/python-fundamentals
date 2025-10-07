@@ -24,7 +24,7 @@ print(f"The sum of the numbers is {int(num1) + int(num2)}")
 
 diameter = int(input("Enter the diameter: "))
 radius = diameter/2
-print(f"The circle's area is {(radius ** 2) * math.pi}")
+print(f"The circle's area is {(radius ** 2) * math.pi} units squared        ")
 
 
 # Challenge 4
