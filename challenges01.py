@@ -6,7 +6,7 @@ print(isPalindrome)
 
 #2
 
-email = input("Enter an email: ")
+email = input("Enter an email: ")         
 print(email[email.find("@") + 1:])
 
 #3
