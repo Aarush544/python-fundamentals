@@ -29,3 +29,18 @@ def is_far(distance):
     elif distance <= 20:
         return "That's nearby"
 
+
+
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+
